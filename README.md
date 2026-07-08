@@ -1,4 +1,4 @@
-# Week 7: Persistent To-Do List App
+# Persistent To-Do List App
 
 ## Author
 - **Name:** Maureen Muchoki 
