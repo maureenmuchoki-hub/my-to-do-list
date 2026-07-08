@@ -36,7 +36,7 @@ This project is a fully functional To-Do List application built using HTML, CSS,
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/iyf-s10-week-07-YourUsername.git
+   git clone https://github.com/YourUsername/my to-do list.git
 
 ## Lessons Learned
 - How to use localStorage to persist data in the browser
